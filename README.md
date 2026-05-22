@@ -120,6 +120,8 @@ Open in browser:
 
 ```text
 http://your-ec2-public-ip
+example:
+http://3.27.250.196
 ```
 
 ---
